@@ -1,0 +1,6 @@
+framework module DeepWallKids {
+  umbrella header "DeepWallKids.h"
+
+  export *
+  module * { export * }
+}
