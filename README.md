@@ -6,6 +6,9 @@
 
 End-to-end solution for building, managing and maintaining profitable mobile apps offering in-app purchases.
 
+We have published iOS Kids SDK for kids category apps who want to use Deepwall.
+
+Deepwall Kids SDK does not collect IDFA from user devices and excludes Adjust and AppsFlyer integrations, and ATT prompt support since Apple has specific requirements for kids category apps.
 
 ## Installation
 
